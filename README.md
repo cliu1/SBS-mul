@@ -1,4 +1,7 @@
 # SBS-mul
+
+This is a forked repo experimented during 2015 JHU Workshop and published in icassp 16. 
+
 Usage:
 
 ```

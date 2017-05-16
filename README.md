@@ -1,6 +1,8 @@
 # SBS-mul
 
 This is a forked repo experimented during 2015 JHU Workshop and published in icassp 16. 
+Outdated. Please find the latest in https://github.com/uiuc-sst/PTgen.
+
 
 Usage:
 
